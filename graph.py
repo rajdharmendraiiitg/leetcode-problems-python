@@ -61,7 +61,7 @@ def dijkstra(graph,src,dest,visited):
     print(node_data[dest]['pred']+list(dest))
 
 ## Network Delay Time - Dijkstra's algorithm
-def networkDelayTime():
+#def networkDelayTime():
     
 if __name__ == "__main__":
     visited = set()
