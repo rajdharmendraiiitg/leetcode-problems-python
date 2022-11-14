@@ -1,0 +1,5 @@
+https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/1094405/JS-Python-Java-C%2B%2B-or-Easy-BFS-Solution-w-Explanation
+https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/1094399/Python-simple-bfs-explained
+
+https://leetcode.com/problems/k-closest-points-to-origin/discuss/659927/Python-sorting-by-distance-w-Visualization
+https://leetcode.com/problems/k-closest-points-to-origin/discuss/1578232/All-possible-3-Python-solutions-%2B-interviewer-expectations
